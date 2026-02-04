@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Data
+/data/raw/
+/data/processed/
+
+# Models and artifacts
+/models/
+/mlruns/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
